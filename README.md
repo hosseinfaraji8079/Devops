@@ -7,4 +7,12 @@
 
 ## Getting Started
 ### Dependencies
-1. None
++ themplate
+  + [Environment Config](/Devops/Environment/environment.md)
+
+## Help
+##### if occerd problem for you send email for me
+
+## Author
+#### hossein faraji
+

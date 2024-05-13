@@ -7,4 +7,4 @@
 
 ## Getting Started
 ### Dependencies
-++none++
+1. None

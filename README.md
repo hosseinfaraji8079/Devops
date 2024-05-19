@@ -8,7 +8,7 @@
 ## Getting Started
 ### Dependencies
 + themplate
-  + [Environment Config](/Devops/Environment/environment.md)
+  + [Environment Config](/Environment/environment.md)
 
 ## Help
 ##### if occerd problem for you send email for me

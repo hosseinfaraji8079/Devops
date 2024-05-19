@@ -1,5 +1,5 @@
 # Environment Setup
 
-+ ### Tool
-  + #### Vagrant
-  + #### Packer
+## Vagrant & Packer
+
+### ```stes```
